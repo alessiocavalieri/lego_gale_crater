@@ -25,6 +25,8 @@ I have printed the models with:
 
 I advice to use a 30% infill setting for better finishing of the crater surface.
 
+Weight of the finished objects with 30% infill: 20 g (10x10) and 80 g (20x20).
+
 # License
 
 creative commons 
@@ -41,6 +43,5 @@ To Gianluca Faletti (aka Kino) for Blender tips and tricks
 # Resources
 
 Thing on thingiverse: http://www.thingiverse.com/thing:2065782
+GitHub: https://github.com/alessiocavalieri/lego_gale_crater
 
-# lego_gale_crater
-It's a set of LEGO compatible baseplates, They are designed to fit with regular LEGO bricks in order to create a martian terrain scenery.
