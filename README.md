@@ -39,9 +39,12 @@ Stl scan of the gale crater downloaded from https://nasa3d.arc.nasa.gov/detail/g
 
 To Gianluca Faletti (aka Kino) for Blender tips and tricks
 
-
 # Resources
 
 Thing on thingiverse: http://www.thingiverse.com/thing:2065782
+
 GitHub: https://github.com/alessiocavalieri/lego_gale_crater
 
+Wiki: http://itink.it/wiki/doku.php?id=en:tinkering:3dprinting:myowncreatedobjects:legogalecrater
+
+Google plus photo album: https://goo.gl/photos/Mdvz5QRDDY53t3bM7
