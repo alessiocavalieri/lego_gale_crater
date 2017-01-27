@@ -31,7 +31,7 @@ Weight of the finished objects with 30% infill: 20 g (10x10) and 80 g (20x20).
 
 # License
 
-creative commons 
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## NASA credits
 
