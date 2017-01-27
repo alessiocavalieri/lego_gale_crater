@@ -14,6 +14,8 @@ and created all around with Blender, adding the base and the LEGO pins, the 20x2
 
 The decimate modifier is used in order to reduce the numbers of the polygons from the NASA gale crater scan.
 
+Sources in Blender format are available for download.
+
 # Printing advice
 
 I have printed the models with: 
